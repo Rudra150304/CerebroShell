@@ -4,7 +4,8 @@ A fast, modern, GPU-rendered Linux terminal built in C++ using OpenGL 3.3, FreeT
 
 The terminal renders text using a custom GPU pipeline and assists users by converting natural language queries into executable shell commands — with a safety confirmation step.
 
-<img width="1003" height="631" alt="Screenshot From 2025-12-03 18-09-01" src="https://github.com/user-attachments/assets/35a7bff8-1318-4a07-a918-bbe4d5a63d56" />
+<img width="1003" height="631" alt="Screenshot From 2025-12-03 18-09-01" src="https://github.com/user-attachments/assets/11f0b957-37f4-42cb-88b6-1e9f2cd08922" />
+
 
 🚀 Features
 🔹 GPU-Accelerated Rendering
@@ -90,9 +91,11 @@ Interrupt (send Ctrl-C)	Ctrl + C
 EOF	Ctrl + D
 Quit	Escape
 
-<img width="1003" height="631" alt="image" src="https://github.com/user-attachments/assets/3bfbb51a-d776-4ec7-8779-b3fa3b307bb6" />
+<img width="1003" height="631" alt="Screenshot From 2025-12-03 18-09-56" src="https://github.com/user-attachments/assets/4f8b5123-e30a-4bb5-b1fc-0f7002b8472d" />
 
-<img width="999" height="619" alt="Screenshot From 2025-12-03 18-14-28" src="https://github.com/user-attachments/assets/b5c1ac74-7f40-499b-b79d-165e5cf64d87" />
+
+<img width="999" height="619" alt="Screenshot From 2025-12-03 18-14-28" src="https://github.com/user-attachments/assets/478eeacb-7038-4f7e-9066-5698bc22c04b" />
+
 
 
 
@@ -101,7 +104,8 @@ Quit	Escape
 
 
 
-<img width="375" height="174" alt="image" src="https://github.com/user-attachments/assets/13626c2e-d6a8-4df5-9270-69442604157a" />
+<img width="375" height="174" alt="Screenshot From 2025-12-03 18-25-10" src="https://github.com/user-attachments/assets/fcd82d93-6f13-4e00-a3ae-531dc94d5fb1" />
+
 
 
 
